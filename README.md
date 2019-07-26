@@ -5,3 +5,4 @@
 #Change 4
 #Change from working branch
 # Change with merge conflicts 1
+# Change with merge conflict 1 from master
